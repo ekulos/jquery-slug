@@ -2,7 +2,6 @@
     "name" : "jquery-slug", 
     "description" : "jQuery Slug is a powerful plugin that makes it easy to transform strings into slugs..",
     "homepage" : "https://github.com/viniciuscainelli/jquery-slug",
-    "version" : "1.0",
     "contributors" : [],
     "repository" : {
         "type" : "git",
