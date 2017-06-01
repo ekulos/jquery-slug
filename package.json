@@ -12,5 +12,5 @@
     "main": "jquery.slug.js",
     "dependencies": {
 	    "jquery": "^1.4.2"
-    },
+    }
 }
